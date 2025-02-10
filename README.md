@@ -13,8 +13,8 @@
 - Problem Solving & Algorithms 💡  
 
 ### 📫 Connect with Me  
-- GitHub: [@diwakarmaharjan](https://github.com/diwakarmaharjan)  
-- Email: [Your Email Here]  
+- GitHub: @diwakarmaharjan(https://github.com/diwakarmaharjan)  
+- Email: diwakar@uebschool.edu.np
 
 ⚡ **Fun Fact:** I love exploring new tech and building cool projects!  
 
